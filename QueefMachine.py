@@ -70,7 +70,7 @@ def animedownloader():
             print('Downloading...',e + 1)
             download.click()
         
-    browser.close()
+
     t2 = time.time() - t1
     print('It took {} seconds to download'.format(t2))
     print('Done downloading')
