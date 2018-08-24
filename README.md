@@ -1,5 +1,5 @@
 # KissAnimetoMP4
-download an entire kissanime series 
+This python program downloads an entire series on kissanime.ru
 
 The program is on Python 3.6.6
 you must have selenium, requests, time, and beautifulsoup 4 installed
