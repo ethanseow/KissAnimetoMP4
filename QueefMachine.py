@@ -20,9 +20,9 @@ def login():
 
     #input username and pass
     username = browser.find_element_by_id('username')
-    username.send_keys('ethanseow')
+    username.send_keys('animedownloadermp4')
     password = browser.find_element_by_id('password')
-    password.send_keys('loler123')
+    password.send_keys('animetomp4')
     password.submit()
 
 def animedownloader():
