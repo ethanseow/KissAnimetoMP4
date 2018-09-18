@@ -18,4 +18,7 @@ Also you need to have chromedriver for selenium to automate the chrome browser
 https://sites.google.com/a/chromium.org/chromedriver/
 
 
+you must input the anime name and chromedriver location
+
+
 
