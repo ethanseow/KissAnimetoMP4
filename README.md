@@ -1,4 +1,11 @@
 # KissAnimetoMP4
+
+(NOT WORKING RIGHT NOT)
+(NOT WORKING RIGHT NOT)
+(NOT WORKING RIGHT NOT)
+
+November 18, 2018
+
 This python program downloads an entire series on kissanime.ru all you need is the link to the anime site you want to download
 
 i.e. http://kissanime.ru/Anime/Shingeki-no-Kyojin-Season-3
